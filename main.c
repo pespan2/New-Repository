@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello World\n");
+	int x = 0;
+	char y;
+	char *z;
+
+	printf("New Version Here:\n");
   return 0;
 }
